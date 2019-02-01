@@ -1,0 +1,23 @@
+{
+  "name": "warmup-04",
+  "version": "1.0.0",
+  "description": "warmup 04 codefellows 401",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeraymond92/warmup-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeraymond92/warmup-04/issues"
+  },
+  "homepage": "https://github.com/georgeraymond92/warmup-04#readme",
+  "dependencies": {
+    "superagent": "^4.1.0"
+  }
+}
